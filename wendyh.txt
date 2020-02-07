@@ -1,6 +1,4 @@
 
-
-
 <HTML>
 
 <HEAD>
@@ -73,80 +71,79 @@ Click me to display Date and Time.</button>
 <TD ROWSPAN=5><CENTER><A HREF="index.html"><IMG SRC="wendyh3.png" 
 WIDTH="75" HEIGHT="75" BORDER="0" ALT="MAIN INDEX"></A></CENTER></TD>
 </TR>
-</TR>
 
 <TR>
 
 <TD BGCOLOR="#F5DEB3"><A HREF="elysea.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="elyse"></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="giorgiob.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="giorgio></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="nicolec.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="nicole"></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="tristong.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="triston"></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="wendyh.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="wendy"></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="cadenh.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="caden"></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="bowenh.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="bowen"></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="kaik.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="kai"></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="artemk.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="artem"></center></A></TD>
 <TD BGCOLOR="#F5DEB3"><A HREF="fengtul.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="fengtu"></center></A></TD>
 
 </TR>
 
 <TR>
 
 <TD BGCOLOR="#FFDAB9"><A HREF="chenguangl.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="chenguang"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="rosiem.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="rosie"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="natashan.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="natasha"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="saran.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sara"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="yuzhangs.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="yuzhang"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="wasuphols.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="wasuphol"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="nathant.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="nathan"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="michaelt.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="michael"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="phoebey.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="phoebe"></center></A></TD>
 <TD BGCOLOR="#FFDAB9"><A HREF="xuanz.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="xuan"></center></A></TD>
 
 </TR>
 
 <TR>
 
 <TD BGCOLOR="#FFEFD5"><A HREF="yukiz.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="yuki"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 <TD BGCOLOR="#FFEFD5"><A HREF="wendysorry.html"><center><img src="wendyh4.png" width="25" height="25" border="0" 
-alt="name of student"></center></A></TD>
+alt="sorry"></center></A></TD>
 
 </TR>
 
